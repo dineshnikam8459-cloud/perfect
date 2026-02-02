@@ -1,0 +1,91 @@
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'fragrance_hub'"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Admin login successful for: pratiknikam@gmail.com"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Admin login successful for: admin@bhatkar.com"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Admin login successful for: admin@bhatkar.com"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Admin login successful for: admin@bhatkar.com"}
+{"level":"info","message":"Admin login successful for: admin@bhatkar.com"}
+{"level":"info","message":"Admin login successful for: admin@bhatkar.com"}
+{"level":"info","message":"Admin login successful for: admin@bhatkar.com"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"Product created: 1"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"Product updated: 1"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"Product deleted: 1"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"Product created: 2"}
+{"level":"info","message":"All products retrieved successfully"}
+{"level":"info","message":"Product deleted: 2"}
+{"level":"info","message":"All products retrieved successfully"}
